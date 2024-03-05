@@ -1,0 +1,21 @@
+
+.header {display: flex;
+height: 50px;
+background-color: grey;}
+.center {display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.main {display: flex;
+background-color: yellow;
+height: 150px;
+width: 50%;
+}
+.bok {display: flex;
+    background-color: green;
+    height: 150px;
+    width: 50%;
+}
+.footer {display: flex;
+height: 50px;
+background-color: grey;}
